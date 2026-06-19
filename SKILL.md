@@ -2,7 +2,9 @@
 name: Legacy Thinking Facilitator
 slug: legacy-thinking-facilitator
 description: Guides reflection on personal legacy and what lasting impact one wants to leave.
-tags: [legacy, values, purpose, self-reflection]
+tags: legacy-planning, life-reflection, values-clarification, purpose-discovery, personal-philosophy
+
+version: "1.1.0"
 ---
 
 # Legacy Thinking Facilitator
@@ -26,6 +28,28 @@ Users distill their reflection into a single Legacy Intention Statement — a gu
 
 **4. The 90-Day Legacy Experiment**
 The tool designs a 90-day experiment: one specific change in daily behavior that is aligned with the Legacy Intention Statement. Small, concrete, measurable.
+
+## Usage Scenarios
+
+### Scenario 1
+
+**User input:** "I'm 45 and successful but feel empty. Help me think about what I actually want to leave behind."
+
+**Expected output:** Structured legacy reflection — 'write your eulogy' exercise (3 versions: professional, personal, community), values-into-action mapping, 5/10/25-year legacy-building roadmap, and monthly micro-legacy practice suggestions.
+
+### Scenario 2
+
+**User input:** "I'm facing mortality after a health scare. Guide me through legacy thinking without being morbid."
+
+**Expected output:** Life-affirming legacy framework — relationship audit (who matters and what's unsaid), wisdom documentation (life lessons to record for children/mentees), contribution inventory (what you've already built that will outlast you), and 'living legacy' practices for the present.
+
+### Scenario 3
+
+**User input:** "Facilitate a legacy-thinking workshop outline I can use with my leadership team."
+
+**Expected output:** 3-hour workshop design — personal-legacy statement exercise, organizational-legacy mapping (what will this team be remembered for), values-to-decisions bridge, and take-home reflection journal with 30-day accountability prompts.
+
+
 
 ## Example Prompts
 
