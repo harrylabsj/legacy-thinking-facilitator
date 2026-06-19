@@ -48,8 +48,9 @@ The tool designs a 90-day experiment: one specific change in daily behavior that
 **User input:** "Facilitate a legacy-thinking workshop outline I can use with my leadership team."
 
 **Expected output:** 3-hour workshop design — personal-legacy statement exercise, organizational-legacy mapping (what will this team be remembered for), values-to-decisions bridge, and take-home reflection journal with 30-day accountability prompts.
-
-
+### Scenario 4: 给80岁的爷爷写人生回忆录
+**User input:** "爷爷今年80岁了，想把他这一生的故事记录下来留给我们晚辈，怎么帮他整理？"
+**Expected output:** 提供'口述人生记忆'整理方案：1）设备准备——用手机录音/家人群视频通话录制，每次30-60分钟；2）主题框架——按年代分（童年→青年→中年→老年），每段问3-5个关键问题（'你小时候最喜欢吃什么？''你和我奶奶是怎么认识的？''你最骄傲的一件事？'）；3）整理成文——把录音转文字（讯飞听见/剪映自动字幕），按时间线编辑成短文或分章节；4）最终产出——可以打印成一本简单的书（淘宝找个人出书服务约200-500元）或做成有声书在家庭群分享。
 
 ## Example Prompts
 
